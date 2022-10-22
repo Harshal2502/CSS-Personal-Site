@@ -1,0 +1,265 @@
+body {
+    margin: 0;
+    color: #40514E;
+    text-align: center;
+}
+
+h1 {
+    color: #66BFBF;
+    font-family: 'roboto';
+    font-size: 175%;
+    margin: 0px auto 1% auto;
+    font-weight: bold;
+}
+
+/* font-family: 'Dancing Script', cursive; */
+.par {
+    color: #66BFBF;
+}
+
+.par1 {
+    color: #C490E4;
+    font-size: 25px;
+    word-spacing: 3px;
+    font-weight: bold;
+}
+
+h2 {
+    color: #66BFBF;
+    padding-bottom: 1%;
+    font-size: 200%;
+    margin-top: 0;
+}
+
+h3 {
+    color: #66BFBF;
+    font-size: 150%;
+}
+
+h4 {
+    color: #66BFBF;
+}
+
+.middle-container {
+    margin: 100px 0 0;
+    background-color: #ffff;
+    padding-bottom: 150px;
+    box-shadow: 1px 1px 13px 1px rgba(0, 0, 0, 0.15);
+}
+
+
+.bottom-container {
+    background-color: #18b0b0;
+    padding: 201px 0 35px;
+}
+
+/* font-family: 'Boogaloo', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Gentium Book Basic', serif; */
+/* #00cb98
+#66BFBF\
+#434e52         https://tsavoneal.com/best-personal-websites/
+#E4F9F5
+#e0ebe8
+    background-color: #e0ebe8;
+ */
+
+p {
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.5;
+    font-size: 21px;
+    word-spacing: 2px;
+}
+
+.d1 {
+    background-color: #ecf7f4;
+    margin: 0px;
+    /* padding-top: 10%; */
+    position: fixed;
+    font-size: 170%;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    top: 0;
+}
+
+.intro {
+    width: 28%;
+    margin: auto;
+}
+
+/* img {
+    display: inline-block;
+} */
+
+.bottom-cloud {
+    position: absolute;
+    left: 18%;
+    bottom: 45%;
+    height: 6%;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 18%;
+    top: 16%;
+    width: 10%;
+}
+
+.div1 {
+    top: 120px;
+    position: relative;
+}
+
+.m1 {
+    position: absolute;
+    width: 45%;
+    margin-top: 122px;
+    right: 356px;
+}
+
+.logo {
+    position: absolute;
+    top: 15px;
+    left: 40px;
+    width: 215px;
+}
+
+.birds {
+    position: absolute;
+    right: 29%;
+    bottom: 26%;
+    height: 7%;
+}
+
+.my-img {
+    width: 25%;
+    border-radius: 100%;
+    margin: 20px;
+    box-shadow: 1px 1px 13px 1px rgba(0, 0, 0, 0.15);
+}
+
+.profile {
+    margin: 50% 7.747% auto;
+    padding-top: 1.5%;
+}
+
+.skill-row {
+    width: 56%;
+    margin: 5% auto 8%;
+    text-align: left;
+    padding: 3% 7%;
+    background-color: #ecfbfc;
+    border-radius: 5px;
+    box-shadow: 1px 1px 13px 1px rgba(87, 87, 87, 0.15)
+}
+
+.cric {
+    width: 23%;
+    margin-left: 5%;
+    float: right;
+    position: relative;
+    bottom: 0rem;
+    left: 4rem;
+}
+
+.DBM {
+    float: left;
+    position: relative;
+    width: 203px;
+    right: 3rem;
+}
+
+.comp {
+    width: 35%;
+    /* margin-right: 5%; */
+    float: left;
+    position: relative;
+    top: -3rem;
+    right: 6rem;
+}
+
+.hr {
+    margin: 7% auto;
+    border-style: dotted none none;
+    border-color: rgb(236, 236, 236);
+    width: 4%;
+    border-width: 0.5rem;
+}
+
+.contact-msg {
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+.btn {
+    -webkit-border-radius: 6;
+    -moz-border-radius: 6;
+    border-radius: 6px;
+    font-family: 'Montserrat', sans-serif;
+    color: #C490E4;
+    font-size: 20px;
+    background: #ffff;
+    padding: 13px 13px 13px 13px;
+    border: solid #C490E4 1px;
+    text-decoration: none;
+}
+
+.btn:hover {
+    background: #C490E4;
+    text-decoration: none;
+    color: #ffff;
+}
+
+/* 8E8B82 c3bcbc c8c2a5 C490E4 9c9c9c
+  */
+a {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 25px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #EAF6F6;
+}
+
+.copyr {
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+
+.navbar {
+    position: relative;
+    top: 15px;
+}
+
+.nav-link {
+    color: #18b0b0 !important;
+}
+
+.nav-link:hover {
+    color: #18b0b09b !important;
+}
+
+.newnav {
+    font-size: 60%;
+    /* top: -40px; */
+    left: 68px;
+}
+
+.dropdown:hover {
+    color: black;
+}
+
+.newhr {
+    width: 230px;
+    position: absolute;
+    left: 118px;
+    top: 95px;
+    border-width: 0.121rem;
+    border-color: black;
+    border-style: solid none none;
+}
